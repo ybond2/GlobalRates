@@ -1,0 +1,2 @@
+# GlobalRates
+Other projects
